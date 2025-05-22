@@ -1,0 +1,11 @@
+Semester,Subject,Chapter,Related Type,Target Semester,Target Subject,Target Chapter
+1,Fundamentals of Marketing and Advertising,Introduction to Marketing,Prerequisite,1,Fundamentals of Marketing and Advertising,Understanding The Market
+1,Fundamentals of Marketing and Advertising,Understanding The Market,Critical,1,Fundamentals of Marketing and Advertising,The Marketing Mix
+1,Fundamentals of Marketing and Advertising,The Marketing Mix,Prerequisite,1,Product adoption curve,Understanding the Adoption Curve
+1,Fundamentals of Marketing and Advertising,The Marketing Mix,Prerequisite,2,Consumer Psychology,Consumer Motivation and Needs
+1,Fundamentals of Marketing and Advertising,The Marketing Mix,Critical,2,Consumer Psychology,Maslow's hierarchy
+2,Consumer Psychology,Consumer Motivation and Needs,Critical,2,Consumer Psychology,Maslow's hierarchy
+2,Consumer Psychology,Consumer Motivation and Needs,Prerequisite,3,Copy Writing,Writing to motivate
+2,Consumer Psychology,Maslow's hierarchy,Prerequisite,3,Integrated Marketing Communication,Types of Marketing communication
+3,Copy Writing,Writing to motivate,,,,
+3,Integrated Marketing Communication,Types of Marketing communication,,,,
